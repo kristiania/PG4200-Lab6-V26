@@ -1,8 +1,10 @@
-# Oppgave-mal
+# Welcome to the Lab practices for PG4200 Algorithms & Data Structures Spring 26
 
-> For å jobbe med oppgaven, skal du plassere koden din i denne `src/main/java/assignment`-mappen.
 
->  I `assignment`-mappen ligger det også en README-fil med detaljert oppgave-beskrivelse.
 
-> Hvis du har lyst å teste om koden din ville oppfylle kravene, finner du test-oppsett
-i filen `test/java/assignment/TestAssignment.java`. Der kan du velge å kjøre alle tester samtidig eller kjøre testene en og en.
+## Info
+
+> You may find the lab practice code in the `src/main/java/assignment`-folder.
+
+>  In the `assignment`-folder you also may find the README-file with a detailed instruction set.
+
