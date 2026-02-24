@@ -16,7 +16,7 @@ Complete the code-snippets in the four sorting-algorithms
 by implementing the method you learned in the lectures:
 - `assignment/BubbleSort.java` (simple), 
 - `assignment/InsertionSort.java` (simple), 
-- `assignment/MergeSort.java` (hard) and  
+- `assignment/MergeSort.java` (normal) and  
 - `assignment/QuickSort.java` (hard).
  
 
