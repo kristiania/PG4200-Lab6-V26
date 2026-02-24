@@ -1,5 +1,6 @@
 package assignment;
 import java.util.Arrays;
+import static hint.SortingMethods.*;
 
 /**
  * Implements quick sort from lecture.
