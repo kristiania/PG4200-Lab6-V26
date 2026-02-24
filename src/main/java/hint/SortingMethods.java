@@ -7,7 +7,6 @@ package hint;
  *
  * Hint two:
  * the methods are insert/merge/partition/swap
- *
  ********************/
 public class SortingMethods {
 
