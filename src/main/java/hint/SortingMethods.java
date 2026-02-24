@@ -4,9 +4,6 @@ package hint;
  * Hint one:
  * Each of the methods is used in one of the sorting algorithms
  * You may consult the lecture slides to find the correct methods
- *
- * Hint two:
- * the methods are insert/merge/partition/swap
  ********************/
 public class SortingMethods {
 
@@ -70,3 +67,8 @@ public class SortingMethods {
     }
 
 }
+
+/********************
+ * Hint two:
+ * the methods are insert/merge/partition/swap
+ ********************/
