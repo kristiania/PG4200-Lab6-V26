@@ -8,8 +8,6 @@ package hint;
  * Hint two:
  * the methods are insert/merge/partition/swap
  *
- * Hint three at the bottom of this file
- * ....
  ********************/
 public class SortingMethods {
 
@@ -73,20 +71,3 @@ public class SortingMethods {
     }
 
 }
-
-
-
-/*********************
- *
- * Hint three:
- * method0 through method3 are called from the sorting algorithms as follows (not necessarily in that order).
- *
- * a) BubbleSort.sort:
- *    swap(arr, j, j+1); // swap j with j+1
- * b) Insertion.sort:
- *    insert(arr, i -1, key); // insert key at the correct position and shift elements to the right
- * c) MergeSort.sort:
- *     merge(arr, left, right); // merge array left with array right
- * d) QuickSort.sort:
- *     int pIndex = partition(arr, low, hi); // finds some arbitrary pivot and sorts elements of array between index low and hi and returns index of pivot
- ********************/
