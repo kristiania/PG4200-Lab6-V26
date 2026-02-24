@@ -1,7 +1,7 @@
 package hint;
 
 /********************
- * Hint one:
+ * Hint:
  * Each of the methods is used in one of the sorting algorithms
  * You may consult the lecture slides to find the correct methods
  ********************/
@@ -69,6 +69,6 @@ public class SortingMethods {
 }
 
 /********************
- * Hint two:
+ * Extra hint:
  * the methods are insert/merge/partition/swap
  ********************/
